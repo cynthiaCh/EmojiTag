@@ -2,16 +2,16 @@
 import { ref, onMounted } from 'vue'
 import emojiList from './assets/emoji.json'
 import Fuse from 'fuse.js'
+import CommentComposer from './components/CommentComposer.vue'
 
 const keyword = ref('')
 const result = ref([])
 const toast = ref({ text: '', visible: false, isError: false })
+const mode = ref('emoji')
 
-// 分类浏览
 const categories = ref([])
 const selectedCategory = ref('')
 
-// 初始化分类
 onMounted(() => {
   const set = new Set(emojiList.map(e => e.category).filter(Boolean))
   categories.value = [...set]
@@ -20,7 +20,7 @@ onMounted(() => {
 const fuse = new Fuse(emojiList, {
   keys: ['description', 'tags', 'aliases'],
   includeMatches: true,
-  threshold: 0.1
+  threshold: 0.2
 })
 
 function searchEmoji() {
@@ -30,11 +30,11 @@ function searchEmoji() {
     selectedCategory.value = ''
     return
   }
-  selectedCategory.value = ''
+
   result.value = fuse.search(key)
+  selectedCategory.value = ''
 }
 
-// 分类筛选
 function filterByCategory(cat) {
   keyword.value = ''
   selectedCategory.value = cat
@@ -43,7 +43,6 @@ function filterByCategory(cat) {
     .map(e => ({ item: e, matches: [] }))
 }
 
-// 高亮匹配
 function highlight(text, matches) {
   if (!matches?.length) return text
   let ranges = matches.flatMap(m => m.indices)
@@ -59,30 +58,39 @@ function highlight(text, matches) {
   return result
 }
 
-// Toast 提示
 function showToast(text, isError = false) {
   toast.value = { text, visible: true, isError }
   setTimeout(() => toast.value.visible = false, 2000)
 }
 
-// 复制注释/markdown/html
 function copyFormat(format = 'comment') {
   const emojis = result.value.map(r => r.item.emoji).join(' ')
-  const content = {
+  const text = {
     comment: `// ${emojis} ${keyword.value}`,
     markdown: `> ${emojis} \`${keyword.value}\``,
     html: `<!-- ${emojis} ${keyword.value} -->`
   }[format]
-  navigator.clipboard.writeText(content)
+
+  navigator.clipboard.writeText(text)
     .then(() => showToast(`✅ Copied as ${format}`))
     .catch(() => showToast('❌ Copy failed', true))
 }
 
-// 单个 emoji 复制
 function copyEmoji(emoji) {
   navigator.clipboard.writeText(emoji)
     .then(() => showToast(`✅ Copied ${emoji}`))
     .catch(() => showToast(`❌ Copy failed`, true))
+}
+
+function buttonStyle(active) {
+  return {
+    margin: '0 4px',
+    padding: '4px 12px',
+    borderRadius: '6px',
+    background: active ? '#007bff' : '#eee',
+    color: active ? 'white' : '#333',
+    border: '1px solid #ccc'
+  }
 }
 </script>
 
@@ -90,40 +98,37 @@ function copyEmoji(emoji) {
   <div style="padding: 2rem; font-family: sans-serif; max-width: 700px; margin: auto;">
     <h1>🔖 EmojiTag</h1>
 
-    <!-- 搜索框 -->
-    <div>
+    <!-- 模式切换按钮 -->
+    <div style="margin-bottom: 1rem;">
+      <button @click="mode = 'emoji'" :style="buttonStyle(mode === 'emoji')">🧩 Emoji 搜索</button>
+      <button @click="mode = 'comment'" :style="buttonStyle(mode === 'comment')">📝 注释推荐</button>
+    </div>
+
+    <!-- 搜索框，仅 emoji 模式显示 -->
+    <div v-if="mode === 'emoji'">
       <input
         v-model="keyword"
         @keyup.enter="searchEmoji"
-        placeholder="Enter a keyword..."
+        placeholder="请输入关键词..."
         style="padding: 8px; font-size: 16px; width: 60%;"
       />
       <button @click="searchEmoji" style="margin-left: 8px;">Search</button>
     </div>
 
-    <!-- 分类浏览 -->
-    <div v-if="categories.length" style="margin-top: 1rem;">
-      <p>📂 Browse by category:</p>
+    <!-- 分类浏览，仅 emoji 模式显示 -->
+    <div v-if="categories.length && mode === 'emoji'" style="margin-top: 1rem;">
       <button
         v-for="cat in categories"
         :key="cat"
         @click="filterByCategory(cat)"
-        :style="{
-          margin: '4px',
-          padding: '4px 8px',
-          background: selectedCategory === cat ? '#007bff' : '#f4f4f4',
-          color: selectedCategory === cat ? 'white' : '#333',
-          borderRadius: '6px',
-          border: '1px solid #ccc',
-          cursor: 'pointer'
-        }"
+        :style="buttonStyle(selectedCategory === cat)"
       >
         {{ cat }}
       </button>
     </div>
 
-    <!-- 搜索或分类结果 -->
-    <div v-if="result.length" style="margin-top: 1.5rem;">
+    <!-- emoji 模式结果 -->
+    <div v-if="mode === 'emoji' && result.length" style="margin-top: 1.5rem;">
       <p style="font-size: 1.2rem; font-weight: bold;">🎯 Results:</p>
       <ul style="list-style: none; padding: 0;">
         <li
@@ -134,10 +139,8 @@ function copyEmoji(emoji) {
           <span
             style="cursor: pointer; font-size: 1.8rem;"
             @click="copyEmoji(r.item.emoji)"
-            title="Click to copy"
-          >
-            {{ r.item.emoji }}
-          </span>
+            title="点击复制 emoji"
+          >{{ r.item.emoji }}</span>
           &nbsp;
           <span
             v-html="highlight(
@@ -155,6 +158,9 @@ function copyEmoji(emoji) {
         <button @click="copyFormat('html')" style="margin-left: 8px;">🌐 HTML</button>
       </div>
     </div>
+
+    <!-- 注释推荐模式 -->
+    <CommentComposer v-if="mode === 'comment'" />
 
     <!-- Toast 提示 -->
     <div v-if="toast.visible" :class="['toast', toast.isError ? 'error' : '']">

@@ -1,0 +1,3159 @@
+[
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "js",
+      "vue"
+    ],
+    "keyword": [
+      "功能",
+      "加载"
+    ],
+    "comment": "// 🚀 功能相关的加载处理",
+    "example": "function handle加载() { /* ... */ }"
+  },
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "功能",
+      "流程"
+    ],
+    "comment": "// 🚀 功能相关的流程处理",
+    "example": "function handle流程() { /* ... */ }"
+  },
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "js"
+    ],
+    "keyword": [
+      "入口",
+      "状态"
+    ],
+    "comment": "// 🚀 入口相关的状态处理",
+    "example": "function handle状态() { /* ... */ }"
+  },
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "流程",
+      "组件"
+    ],
+    "comment": "// 🚀 流程相关的组件处理",
+    "example": "function handle组件() { /* ... */ }"
+  },
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "流程",
+      "入口"
+    ],
+    "comment": "// 🚀 流程相关的入口处理",
+    "example": "function handle入口() { /* ... */ }"
+  },
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "ts",
+      "js",
+      "vue"
+    ],
+    "keyword": [
+      "状态",
+      "加载"
+    ],
+    "comment": "// 🚀 状态相关的加载处理",
+    "example": "function handle加载() { /* ... */ }"
+  },
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "vue",
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "流程",
+      "功能"
+    ],
+    "comment": "// 🚀 流程相关的功能处理",
+    "example": "function handle功能() { /* ... */ }"
+  },
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "js",
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "状态",
+      "功能"
+    ],
+    "comment": "// 🚀 状态相关的功能处理",
+    "example": "function handle功能() { /* ... */ }"
+  },
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "vue"
+    ],
+    "keyword": [
+      "加载",
+      "功能"
+    ],
+    "comment": "// 🚀 加载相关的功能处理",
+    "example": "function handle功能() { /* ... */ }"
+  },
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "功能",
+      "组件"
+    ],
+    "comment": "// 🚀 功能相关的组件处理",
+    "example": "function handle组件() { /* ... */ }"
+  },
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "模块",
+      "组件"
+    ],
+    "comment": "// 🚀 模块相关的组件处理",
+    "example": "function handle组件() { /* ... */ }"
+  },
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "js"
+    ],
+    "keyword": [
+      "状态",
+      "初始化"
+    ],
+    "comment": "// 🚀 状态相关的初始化处理",
+    "example": "function handle初始化() { /* ... */ }"
+  },
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "加载",
+      "入口"
+    ],
+    "comment": "// 🚀 加载相关的入口处理",
+    "example": "function handle入口() { /* ... */ }"
+  },
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "ts",
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "功能",
+      "模块"
+    ],
+    "comment": "// 🚀 功能相关的模块处理",
+    "example": "function handle模块() { /* ... */ }"
+  },
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "js",
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "模块",
+      "加载"
+    ],
+    "comment": "// 🚀 模块相关的加载处理",
+    "example": "function handle加载() { /* ... */ }"
+  },
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "js",
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "功能",
+      "流程"
+    ],
+    "comment": "// 🚀 功能相关的流程处理",
+    "example": "function handle流程() { /* ... */ }"
+  },
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "入口",
+      "状态"
+    ],
+    "comment": "// 🚀 入口相关的状态处理",
+    "example": "function handle状态() { /* ... */ }"
+  },
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "状态",
+      "初始化"
+    ],
+    "comment": "// 🚀 状态相关的初始化处理",
+    "example": "function handle初始化() { /* ... */ }"
+  },
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "js",
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "状态",
+      "流程"
+    ],
+    "comment": "// 🚀 状态相关的流程处理",
+    "example": "function handle流程() { /* ... */ }"
+  },
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "组件",
+      "状态"
+    ],
+    "comment": "// 🚀 组件相关的状态处理",
+    "example": "function handle状态() { /* ... */ }"
+  },
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "vue",
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "入口",
+      "流程"
+    ],
+    "comment": "// 🚀 入口相关的流程处理",
+    "example": "function handle流程() { /* ... */ }"
+  },
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "ts",
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "状态",
+      "流程"
+    ],
+    "comment": "// 🚀 状态相关的流程处理",
+    "example": "function handle流程() { /* ... */ }"
+  },
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "vue",
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "功能",
+      "初始化"
+    ],
+    "comment": "// 🚀 功能相关的初始化处理",
+    "example": "function handle初始化() { /* ... */ }"
+  },
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "vue"
+    ],
+    "keyword": [
+      "初始化",
+      "功能"
+    ],
+    "comment": "// 🚀 初始化相关的功能处理",
+    "example": "function handle功能() { /* ... */ }"
+  },
+  {
+    "emoji": "🚀",
+    "category": "feature",
+    "lang": [
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "流程",
+      "状态"
+    ],
+    "comment": "// 🚀 流程相关的状态处理",
+    "example": "function handle状态() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "修复",
+      "错误"
+    ],
+    "comment": "// 🐛 修复相关的错误处理",
+    "example": "function handle错误() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "vue"
+    ],
+    "keyword": [
+      "问题",
+      "边界"
+    ],
+    "comment": "// 🐛 问题相关的边界处理",
+    "example": "function handle边界() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "js",
+      "vue"
+    ],
+    "keyword": [
+      "错误",
+      "边界"
+    ],
+    "comment": "// 🐛 错误相关的边界处理",
+    "example": "function handle边界() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "js",
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "失败",
+      "修复"
+    ],
+    "comment": "// 🐛 失败相关的修复处理",
+    "example": "function handle修复() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "vue",
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "问题",
+      "兼容"
+    ],
+    "comment": "// 🐛 问题相关的兼容处理",
+    "example": "function handle兼容() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "问题",
+      "失败"
+    ],
+    "comment": "// 🐛 问题相关的失败处理",
+    "example": "function handle失败() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "异常",
+      "问题"
+    ],
+    "comment": "// 🐛 异常相关的问题处理",
+    "example": "function handle问题() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "js",
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "问题",
+      "兼容"
+    ],
+    "comment": "// 🐛 问题相关的兼容处理",
+    "example": "function handle兼容() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "修复",
+      "异常"
+    ],
+    "comment": "// 🐛 修复相关的异常处理",
+    "example": "function handle异常() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "vue",
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "兼容",
+      "边界"
+    ],
+    "comment": "// 🐛 兼容相关的边界处理",
+    "example": "function handle边界() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "边界",
+      "问题"
+    ],
+    "comment": "// 🐛 边界相关的问题处理",
+    "example": "function handle问题() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "vue"
+    ],
+    "keyword": [
+      "边界",
+      "兼容"
+    ],
+    "comment": "// 🐛 边界相关的兼容处理",
+    "example": "function handle兼容() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "失败",
+      "修复"
+    ],
+    "comment": "// 🐛 失败相关的修复处理",
+    "example": "function handle修复() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "ts",
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "修复",
+      "异常"
+    ],
+    "comment": "// 🐛 修复相关的异常处理",
+    "example": "function handle异常() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "js"
+    ],
+    "keyword": [
+      "边界",
+      "错误"
+    ],
+    "comment": "// 🐛 边界相关的错误处理",
+    "example": "function handle错误() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "js",
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "错误",
+      "边界"
+    ],
+    "comment": "// 🐛 错误相关的边界处理",
+    "example": "function handle边界() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "边界",
+      "兼容"
+    ],
+    "comment": "// 🐛 边界相关的兼容处理",
+    "example": "function handle兼容() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "js",
+      "vue"
+    ],
+    "keyword": [
+      "异常",
+      "问题"
+    ],
+    "comment": "// 🐛 异常相关的问题处理",
+    "example": "function handle问题() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "失败",
+      "问题"
+    ],
+    "comment": "// 🐛 失败相关的问题处理",
+    "example": "function handle问题() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "vue",
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "兼容",
+      "错误"
+    ],
+    "comment": "// 🐛 兼容相关的错误处理",
+    "example": "function handle错误() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "ts",
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "修复",
+      "失败"
+    ],
+    "comment": "// 🐛 修复相关的失败处理",
+    "example": "function handle失败() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "ts",
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "错误",
+      "修复"
+    ],
+    "comment": "// 🐛 错误相关的修复处理",
+    "example": "function handle修复() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "js",
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "异常",
+      "修复"
+    ],
+    "comment": "// 🐛 异常相关的修复处理",
+    "example": "function handle修复() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "js",
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "错误",
+      "异常"
+    ],
+    "comment": "// 🐛 错误相关的异常处理",
+    "example": "function handle异常() { /* ... */ }"
+  },
+  {
+    "emoji": "🐛",
+    "category": "bugfix",
+    "lang": [
+      "vue",
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "错误",
+      "修复"
+    ],
+    "comment": "// 🐛 错误相关的修复处理",
+    "example": "function handle修复() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "颜色",
+      "样式"
+    ],
+    "comment": "// 🎨 颜色相关的样式处理",
+    "example": "function handle样式() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "js",
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "空格",
+      "布局"
+    ],
+    "comment": "// 🎨 空格相关的布局处理",
+    "example": "function handle布局() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "字体",
+      "颜色"
+    ],
+    "comment": "// 🎨 字体相关的颜色处理",
+    "example": "function handle颜色() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "字体",
+      "颜色"
+    ],
+    "comment": "// 🎨 字体相关的颜色处理",
+    "example": "function handle颜色() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "vue"
+    ],
+    "keyword": [
+      "空格",
+      "布局"
+    ],
+    "comment": "// 🎨 空格相关的布局处理",
+    "example": "function handle布局() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "js",
+      "vue"
+    ],
+    "keyword": [
+      "空格",
+      "布局"
+    ],
+    "comment": "// 🎨 空格相关的布局处理",
+    "example": "function handle布局() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "ts",
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "空格",
+      "UI"
+    ],
+    "comment": "// 🎨 空格相关的UI处理",
+    "example": "function handleUi() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "样式",
+      "颜色"
+    ],
+    "comment": "// 🎨 样式相关的颜色处理",
+    "example": "function handle颜色() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "UI",
+      "布局"
+    ],
+    "comment": "// 🎨 UI相关的布局处理",
+    "example": "function handle布局() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "vue",
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "字体",
+      "布局"
+    ],
+    "comment": "// 🎨 字体相关的布局处理",
+    "example": "function handle布局() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "js",
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "字体",
+      "样式"
+    ],
+    "comment": "// 🎨 字体相关的样式处理",
+    "example": "function handle样式() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "js",
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "布局",
+      "样式"
+    ],
+    "comment": "// 🎨 布局相关的样式处理",
+    "example": "function handle样式() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "js",
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "字体",
+      "空格"
+    ],
+    "comment": "// 🎨 字体相关的空格处理",
+    "example": "function handle空格() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "UI",
+      "空格"
+    ],
+    "comment": "// 🎨 UI相关的空格处理",
+    "example": "function handle空格() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "vue",
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "颜色",
+      "UI"
+    ],
+    "comment": "// 🎨 颜色相关的UI处理",
+    "example": "function handleUi() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "js",
+      "vue"
+    ],
+    "keyword": [
+      "空格",
+      "缩进"
+    ],
+    "comment": "// 🎨 空格相关的缩进处理",
+    "example": "function handle缩进() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "ts",
+      "js",
+      "vue"
+    ],
+    "keyword": [
+      "样式",
+      "布局"
+    ],
+    "comment": "// 🎨 样式相关的布局处理",
+    "example": "function handle布局() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "颜色",
+      "缩进"
+    ],
+    "comment": "// 🎨 颜色相关的缩进处理",
+    "example": "function handle缩进() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "vue"
+    ],
+    "keyword": [
+      "空格",
+      "颜色"
+    ],
+    "comment": "// 🎨 空格相关的颜色处理",
+    "example": "function handle颜色() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "空格",
+      "样式"
+    ],
+    "comment": "// 🎨 空格相关的样式处理",
+    "example": "function handle样式() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "布局",
+      "样式"
+    ],
+    "comment": "// 🎨 布局相关的样式处理",
+    "example": "function handle样式() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "ts",
+      "js",
+      "vue"
+    ],
+    "keyword": [
+      "UI",
+      "颜色"
+    ],
+    "comment": "// 🎨 UI相关的颜色处理",
+    "example": "function handle颜色() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "vue"
+    ],
+    "keyword": [
+      "布局",
+      "颜色"
+    ],
+    "comment": "// 🎨 布局相关的颜色处理",
+    "example": "function handle颜色() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "vue"
+    ],
+    "keyword": [
+      "颜色",
+      "布局"
+    ],
+    "comment": "// 🎨 颜色相关的布局处理",
+    "example": "function handle布局() { /* ... */ }"
+  },
+  {
+    "emoji": "🎨",
+    "category": "style",
+    "lang": [
+      "js",
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "布局",
+      "字体"
+    ],
+    "comment": "// 🎨 布局相关的字体处理",
+    "example": "function handle字体() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "封装",
+      "清理"
+    ],
+    "comment": "// ♻️ 封装相关的清理处理",
+    "example": "function handle清理() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "js"
+    ],
+    "keyword": [
+      "重构",
+      "封装"
+    ],
+    "comment": "// ♻️ 重构相关的封装处理",
+    "example": "function handle封装() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "优化",
+      "提取"
+    ],
+    "comment": "// ♻️ 优化相关的提取处理",
+    "example": "function handle提取() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "js",
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "优化",
+      "调整"
+    ],
+    "comment": "// ♻️ 优化相关的调整处理",
+    "example": "function handle调整() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "js",
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "清理",
+      "重构"
+    ],
+    "comment": "// ♻️ 清理相关的重构处理",
+    "example": "function handle重构() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "js",
+      "vue"
+    ],
+    "keyword": [
+      "提取",
+      "封装"
+    ],
+    "comment": "// ♻️ 提取相关的封装处理",
+    "example": "function handle封装() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "优化",
+      "提取"
+    ],
+    "comment": "// ♻️ 优化相关的提取处理",
+    "example": "function handle提取() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "封装",
+      "清理"
+    ],
+    "comment": "// ♻️ 封装相关的清理处理",
+    "example": "function handle清理() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "js",
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "重构",
+      "调整"
+    ],
+    "comment": "// ♻️ 重构相关的调整处理",
+    "example": "function handle调整() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "js"
+    ],
+    "keyword": [
+      "清理",
+      "优化"
+    ],
+    "comment": "// ♻️ 清理相关的优化处理",
+    "example": "function handle优化() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "js"
+    ],
+    "keyword": [
+      "优化",
+      "提取"
+    ],
+    "comment": "// ♻️ 优化相关的提取处理",
+    "example": "function handle提取() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "vue",
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "清理",
+      "重构"
+    ],
+    "comment": "// ♻️ 清理相关的重构处理",
+    "example": "function handle重构() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "js"
+    ],
+    "keyword": [
+      "优化",
+      "封装"
+    ],
+    "comment": "// ♻️ 优化相关的封装处理",
+    "example": "function handle封装() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "js",
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "调整",
+      "封装"
+    ],
+    "comment": "// ♻️ 调整相关的封装处理",
+    "example": "function handle封装() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "优化",
+      "清理"
+    ],
+    "comment": "// ♻️ 优化相关的清理处理",
+    "example": "function handle清理() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "优化",
+      "提取"
+    ],
+    "comment": "// ♻️ 优化相关的提取处理",
+    "example": "function handle提取() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "js"
+    ],
+    "keyword": [
+      "调整",
+      "优化"
+    ],
+    "comment": "// ♻️ 调整相关的优化处理",
+    "example": "function handle优化() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "js"
+    ],
+    "keyword": [
+      "优化",
+      "重构"
+    ],
+    "comment": "// ♻️ 优化相关的重构处理",
+    "example": "function handle重构() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "重构",
+      "调整"
+    ],
+    "comment": "// ♻️ 重构相关的调整处理",
+    "example": "function handle调整() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "清理",
+      "优化"
+    ],
+    "comment": "// ♻️ 清理相关的优化处理",
+    "example": "function handle优化() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "js",
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "封装",
+      "提取"
+    ],
+    "comment": "// ♻️ 封装相关的提取处理",
+    "example": "function handle提取() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "提取",
+      "调整"
+    ],
+    "comment": "// ♻️ 提取相关的调整处理",
+    "example": "function handle调整() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "vue"
+    ],
+    "keyword": [
+      "封装",
+      "清理"
+    ],
+    "comment": "// ♻️ 封装相关的清理处理",
+    "example": "function handle清理() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "vue"
+    ],
+    "keyword": [
+      "清理",
+      "优化"
+    ],
+    "comment": "// ♻️ 清理相关的优化处理",
+    "example": "function handle优化() { /* ... */ }"
+  },
+  {
+    "emoji": "♻️",
+    "category": "refactor",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "优化",
+      "调整"
+    ],
+    "comment": "// ♻️ 优化相关的调整处理",
+    "example": "function handle调整() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "js",
+      "vue"
+    ],
+    "keyword": [
+      "说明",
+      "注释"
+    ],
+    "comment": "// 📝 说明相关的注释处理",
+    "example": "function handle注释() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "js",
+      "vue"
+    ],
+    "keyword": [
+      "文档",
+      "说明"
+    ],
+    "comment": "// 📝 文档相关的说明处理",
+    "example": "function handle说明() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "js",
+      "vue"
+    ],
+    "keyword": [
+      "说明",
+      "注释"
+    ],
+    "comment": "// 📝 说明相关的注释处理",
+    "example": "function handle注释() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "说明书",
+      "说明"
+    ],
+    "comment": "// 📝 说明书相关的说明处理",
+    "example": "function handle说明() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "说明",
+      "说明书"
+    ],
+    "comment": "// 📝 说明相关的说明书处理",
+    "example": "function handle说明书() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "注释",
+      "说明"
+    ],
+    "comment": "// 📝 注释相关的说明处理",
+    "example": "function handle说明() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "说明书",
+      "注释"
+    ],
+    "comment": "// 📝 说明书相关的注释处理",
+    "example": "function handle注释() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "js",
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "注释",
+      "文档"
+    ],
+    "comment": "// 📝 注释相关的文档处理",
+    "example": "function handle文档() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "ts",
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "注释",
+      "说明"
+    ],
+    "comment": "// 📝 注释相关的说明处理",
+    "example": "function handle说明() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "vue"
+    ],
+    "keyword": [
+      "文档",
+      "注释"
+    ],
+    "comment": "// 📝 文档相关的注释处理",
+    "example": "function handle注释() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "js",
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "说明书",
+      "注释"
+    ],
+    "comment": "// 📝 说明书相关的注释处理",
+    "example": "function handle注释() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "js"
+    ],
+    "keyword": [
+      "说明书",
+      "文档"
+    ],
+    "comment": "// 📝 说明书相关的文档处理",
+    "example": "function handle文档() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "注释",
+      "说明书"
+    ],
+    "comment": "// 📝 注释相关的说明书处理",
+    "example": "function handle说明书() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "ts",
+      "js",
+      "vue"
+    ],
+    "keyword": [
+      "说明",
+      "文档"
+    ],
+    "comment": "// 📝 说明相关的文档处理",
+    "example": "function handle文档() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "vue",
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "注释",
+      "文档"
+    ],
+    "comment": "// 📝 注释相关的文档处理",
+    "example": "function handle文档() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "文档",
+      "注释"
+    ],
+    "comment": "// 📝 文档相关的注释处理",
+    "example": "function handle注释() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "vue"
+    ],
+    "keyword": [
+      "说明",
+      "说明书"
+    ],
+    "comment": "// 📝 说明相关的说明书处理",
+    "example": "function handle说明书() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "说明",
+      "注释"
+    ],
+    "comment": "// 📝 说明相关的注释处理",
+    "example": "function handle注释() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "文档",
+      "注释"
+    ],
+    "comment": "// 📝 文档相关的注释处理",
+    "example": "function handle注释() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "vue"
+    ],
+    "keyword": [
+      "说明书",
+      "注释"
+    ],
+    "comment": "// 📝 说明书相关的注释处理",
+    "example": "function handle注释() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "ts",
+      "js",
+      "vue"
+    ],
+    "keyword": [
+      "文档",
+      "注释"
+    ],
+    "comment": "// 📝 文档相关的注释处理",
+    "example": "function handle注释() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "说明书",
+      "文档"
+    ],
+    "comment": "// 📝 说明书相关的文档处理",
+    "example": "function handle文档() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "vue"
+    ],
+    "keyword": [
+      "说明",
+      "说明书"
+    ],
+    "comment": "// 📝 说明相关的说明书处理",
+    "example": "function handle说明书() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "说明书",
+      "注释"
+    ],
+    "comment": "// 📝 说明书相关的注释处理",
+    "example": "function handle注释() { /* ... */ }"
+  },
+  {
+    "emoji": "📝",
+    "category": "docs",
+    "lang": [
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "说明书",
+      "说明"
+    ],
+    "comment": "// 📝 说明书相关的说明处理",
+    "example": "function handle说明() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "测试",
+      "用例"
+    ],
+    "comment": "// ✅ 测试相关的用例处理",
+    "example": "function handle用例() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "js"
+    ],
+    "keyword": [
+      "覆盖率",
+      "测试"
+    ],
+    "comment": "// ✅ 覆盖率相关的测试处理",
+    "example": "function handle测试() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "js",
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "测试",
+      "覆盖率"
+    ],
+    "comment": "// ✅ 测试相关的覆盖率处理",
+    "example": "function handle覆盖率() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "vue"
+    ],
+    "keyword": [
+      "测试",
+      "覆盖率"
+    ],
+    "comment": "// ✅ 测试相关的覆盖率处理",
+    "example": "function handle覆盖率() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "js",
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "单元测试",
+      "mock"
+    ],
+    "comment": "// ✅ 单元测试相关的mock处理",
+    "example": "function handleMock() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "vue"
+    ],
+    "keyword": [
+      "覆盖率",
+      "单元测试"
+    ],
+    "comment": "// ✅ 覆盖率相关的单元测试处理",
+    "example": "function handle单元测试() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "用例",
+      "覆盖率"
+    ],
+    "comment": "// ✅ 用例相关的覆盖率处理",
+    "example": "function handle覆盖率() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "js"
+    ],
+    "keyword": [
+      "mock",
+      "用例"
+    ],
+    "comment": "// ✅ mock相关的用例处理",
+    "example": "function handle用例() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "js",
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "单元测试",
+      "覆盖率"
+    ],
+    "comment": "// ✅ 单元测试相关的覆盖率处理",
+    "example": "function handle覆盖率() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "单元测试",
+      "用例"
+    ],
+    "comment": "// ✅ 单元测试相关的用例处理",
+    "example": "function handle用例() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "js"
+    ],
+    "keyword": [
+      "用例",
+      "覆盖率"
+    ],
+    "comment": "// ✅ 用例相关的覆盖率处理",
+    "example": "function handle覆盖率() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "覆盖率",
+      "用例"
+    ],
+    "comment": "// ✅ 覆盖率相关的用例处理",
+    "example": "function handle用例() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "vue",
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "mock",
+      "用例"
+    ],
+    "comment": "// ✅ mock相关的用例处理",
+    "example": "function handle用例() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "vue",
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "测试",
+      "覆盖率"
+    ],
+    "comment": "// ✅ 测试相关的覆盖率处理",
+    "example": "function handle覆盖率() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "测试",
+      "单元测试"
+    ],
+    "comment": "// ✅ 测试相关的单元测试处理",
+    "example": "function handle单元测试() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "vue",
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "mock",
+      "覆盖率"
+    ],
+    "comment": "// ✅ mock相关的覆盖率处理",
+    "example": "function handle覆盖率() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "用例",
+      "测试"
+    ],
+    "comment": "// ✅ 用例相关的测试处理",
+    "example": "function handle测试() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "vue",
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "测试",
+      "mock"
+    ],
+    "comment": "// ✅ 测试相关的mock处理",
+    "example": "function handleMock() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "测试",
+      "mock"
+    ],
+    "comment": "// ✅ 测试相关的mock处理",
+    "example": "function handleMock() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "js"
+    ],
+    "keyword": [
+      "测试",
+      "mock"
+    ],
+    "comment": "// ✅ 测试相关的mock处理",
+    "example": "function handleMock() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "ts",
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "用例",
+      "测试"
+    ],
+    "comment": "// ✅ 用例相关的测试处理",
+    "example": "function handle测试() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "js",
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "覆盖率",
+      "mock"
+    ],
+    "comment": "// ✅ 覆盖率相关的mock处理",
+    "example": "function handleMock() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "vue",
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "单元测试",
+      "mock"
+    ],
+    "comment": "// ✅ 单元测试相关的mock处理",
+    "example": "function handleMock() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "vue"
+    ],
+    "keyword": [
+      "覆盖率",
+      "用例"
+    ],
+    "comment": "// ✅ 覆盖率相关的用例处理",
+    "example": "function handle用例() { /* ... */ }"
+  },
+  {
+    "emoji": "✅",
+    "category": "test",
+    "lang": [
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "单元测试",
+      "mock"
+    ],
+    "comment": "// ✅ 单元测试相关的mock处理",
+    "example": "function handleMock() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "ts",
+      "js",
+      "vue"
+    ],
+    "keyword": [
+      "脚本",
+      "版本"
+    ],
+    "comment": "// 🔧 脚本相关的版本处理",
+    "example": "function handle版本() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "ts",
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "版本",
+      "构建"
+    ],
+    "comment": "// 🔧 版本相关的构建处理",
+    "example": "function handle构建() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "依赖",
+      "版本"
+    ],
+    "comment": "// 🔧 依赖相关的版本处理",
+    "example": "function handle版本() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "依赖",
+      "配置"
+    ],
+    "comment": "// 🔧 依赖相关的配置处理",
+    "example": "function handle配置() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "脚本",
+      "构建"
+    ],
+    "comment": "// 🔧 脚本相关的构建处理",
+    "example": "function handle构建() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "vue",
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "配置",
+      "版本"
+    ],
+    "comment": "// 🔧 配置相关的版本处理",
+    "example": "function handle版本() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "ts",
+      "js",
+      "vue"
+    ],
+    "keyword": [
+      "构建",
+      "依赖"
+    ],
+    "comment": "// 🔧 构建相关的依赖处理",
+    "example": "function handle依赖() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "依赖",
+      "构建"
+    ],
+    "comment": "// 🔧 依赖相关的构建处理",
+    "example": "function handle构建() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "js",
+      "vue"
+    ],
+    "keyword": [
+      "构建",
+      "配置"
+    ],
+    "comment": "// 🔧 构建相关的配置处理",
+    "example": "function handle配置() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "vue",
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "版本",
+      "配置"
+    ],
+    "comment": "// 🔧 版本相关的配置处理",
+    "example": "function handle配置() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "版本",
+      "依赖"
+    ],
+    "comment": "// 🔧 版本相关的依赖处理",
+    "example": "function handle依赖() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "js",
+      "vue"
+    ],
+    "keyword": [
+      "版本",
+      "构建"
+    ],
+    "comment": "// 🔧 版本相关的构建处理",
+    "example": "function handle构建() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "js",
+      "vue"
+    ],
+    "keyword": [
+      "构建",
+      "版本"
+    ],
+    "comment": "// 🔧 构建相关的版本处理",
+    "example": "function handle版本() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "配置",
+      "构建"
+    ],
+    "comment": "// 🔧 配置相关的构建处理",
+    "example": "function handle构建() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "脚本",
+      "构建"
+    ],
+    "comment": "// 🔧 脚本相关的构建处理",
+    "example": "function handle构建() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "ts",
+      "js",
+      "vue"
+    ],
+    "keyword": [
+      "构建",
+      "依赖"
+    ],
+    "comment": "// 🔧 构建相关的依赖处理",
+    "example": "function handle依赖() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "vue",
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "版本",
+      "构建"
+    ],
+    "comment": "// 🔧 版本相关的构建处理",
+    "example": "function handle构建() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "vue",
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "依赖",
+      "配置"
+    ],
+    "comment": "// 🔧 依赖相关的配置处理",
+    "example": "function handle配置() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "脚本",
+      "版本"
+    ],
+    "comment": "// 🔧 脚本相关的版本处理",
+    "example": "function handle版本() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "vue"
+    ],
+    "keyword": [
+      "依赖",
+      "版本"
+    ],
+    "comment": "// 🔧 依赖相关的版本处理",
+    "example": "function handle版本() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "版本",
+      "依赖"
+    ],
+    "comment": "// 🔧 版本相关的依赖处理",
+    "example": "function handle依赖() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "版本",
+      "依赖"
+    ],
+    "comment": "// 🔧 版本相关的依赖处理",
+    "example": "function handle依赖() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "依赖",
+      "脚本"
+    ],
+    "comment": "// 🔧 依赖相关的脚本处理",
+    "example": "function handle脚本() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "依赖",
+      "脚本"
+    ],
+    "comment": "// 🔧 依赖相关的脚本处理",
+    "example": "function handle脚本() { /* ... */ }"
+  },
+  {
+    "emoji": "🔧",
+    "category": "chore",
+    "lang": [
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "脚本",
+      "配置"
+    ],
+    "comment": "// 🔧 脚本相关的配置处理",
+    "example": "function handle配置() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "节流",
+      "速度"
+    ],
+    "comment": "// ⚡️ 节流相关的速度处理",
+    "example": "function handle速度() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "js"
+    ],
+    "keyword": [
+      "延迟",
+      "缓存"
+    ],
+    "comment": "// ⚡️ 延迟相关的缓存处理",
+    "example": "function handle缓存() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "防抖",
+      "性能"
+    ],
+    "comment": "// ⚡️ 防抖相关的性能处理",
+    "example": "function handle性能() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "防抖",
+      "延迟"
+    ],
+    "comment": "// ⚡️ 防抖相关的延迟处理",
+    "example": "function handle延迟() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "防抖",
+      "延迟"
+    ],
+    "comment": "// ⚡️ 防抖相关的延迟处理",
+    "example": "function handle延迟() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "js",
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "节流",
+      "速度"
+    ],
+    "comment": "// ⚡️ 节流相关的速度处理",
+    "example": "function handle速度() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "vue"
+    ],
+    "keyword": [
+      "性能",
+      "节流"
+    ],
+    "comment": "// ⚡️ 性能相关的节流处理",
+    "example": "function handle节流() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "性能",
+      "防抖"
+    ],
+    "comment": "// ⚡️ 性能相关的防抖处理",
+    "example": "function handle防抖() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "速度",
+      "防抖"
+    ],
+    "comment": "// ⚡️ 速度相关的防抖处理",
+    "example": "function handle防抖() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "js",
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "性能",
+      "延迟"
+    ],
+    "comment": "// ⚡️ 性能相关的延迟处理",
+    "example": "function handle延迟() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "速度",
+      "防抖"
+    ],
+    "comment": "// ⚡️ 速度相关的防抖处理",
+    "example": "function handle防抖() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "vue",
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "速度",
+      "缓存"
+    ],
+    "comment": "// ⚡️ 速度相关的缓存处理",
+    "example": "function handle缓存() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "防抖",
+      "延迟"
+    ],
+    "comment": "// ⚡️ 防抖相关的延迟处理",
+    "example": "function handle延迟() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "js"
+    ],
+    "keyword": [
+      "性能",
+      "速度"
+    ],
+    "comment": "// ⚡️ 性能相关的速度处理",
+    "example": "function handle速度() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "节流",
+      "缓存"
+    ],
+    "comment": "// ⚡️ 节流相关的缓存处理",
+    "example": "function handle缓存() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "ts",
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "节流",
+      "延迟"
+    ],
+    "comment": "// ⚡️ 节流相关的延迟处理",
+    "example": "function handle延迟() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "速度",
+      "缓存"
+    ],
+    "comment": "// ⚡️ 速度相关的缓存处理",
+    "example": "function handle缓存() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "防抖",
+      "节流"
+    ],
+    "comment": "// ⚡️ 防抖相关的节流处理",
+    "example": "function handle节流() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "vue",
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "性能",
+      "节流"
+    ],
+    "comment": "// ⚡️ 性能相关的节流处理",
+    "example": "function handle节流() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "vue"
+    ],
+    "keyword": [
+      "延迟",
+      "性能"
+    ],
+    "comment": "// ⚡️ 延迟相关的性能处理",
+    "example": "function handle性能() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "速度",
+      "延迟"
+    ],
+    "comment": "// ⚡️ 速度相关的延迟处理",
+    "example": "function handle延迟() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "速度",
+      "性能"
+    ],
+    "comment": "// ⚡️ 速度相关的性能处理",
+    "example": "function handle性能() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "vue",
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "性能",
+      "缓存"
+    ],
+    "comment": "// ⚡️ 性能相关的缓存处理",
+    "example": "function handle缓存() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "性能",
+      "节流"
+    ],
+    "comment": "// ⚡️ 性能相关的节流处理",
+    "example": "function handle节流() { /* ... */ }"
+  },
+  {
+    "emoji": "⚡️",
+    "category": "perf",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "性能",
+      "防抖"
+    ],
+    "comment": "// ⚡️ 性能相关的防抖处理",
+    "example": "function handle防抖() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "js",
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "翻译",
+      "国际化"
+    ],
+    "comment": "// 🌐 翻译相关的国际化处理",
+    "example": "function handle国际化() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "ts",
+      "js",
+      "vue"
+    ],
+    "keyword": [
+      "语言",
+      "多语言"
+    ],
+    "comment": "// 🌐 语言相关的多语言处理",
+    "example": "function handle多语言() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "多语言",
+      "国际化"
+    ],
+    "comment": "// 🌐 多语言相关的国际化处理",
+    "example": "function handle国际化() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "ts",
+      "vue"
+    ],
+    "keyword": [
+      "国际化",
+      "多语言"
+    ],
+    "comment": "// 🌐 国际化相关的多语言处理",
+    "example": "function handle多语言() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "vue",
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "语言",
+      "翻译"
+    ],
+    "comment": "// 🌐 语言相关的翻译处理",
+    "example": "function handle翻译() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "多语言",
+      "语言"
+    ],
+    "comment": "// 🌐 多语言相关的语言处理",
+    "example": "function handle语言() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "翻译",
+      "多语言"
+    ],
+    "comment": "// 🌐 翻译相关的多语言处理",
+    "example": "function handle多语言() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "ts",
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "语言",
+      "翻译"
+    ],
+    "comment": "// 🌐 语言相关的翻译处理",
+    "example": "function handle翻译() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "多语言",
+      "语言"
+    ],
+    "comment": "// 🌐 多语言相关的语言处理",
+    "example": "function handle语言() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "vue"
+    ],
+    "keyword": [
+      "国际化",
+      "语言"
+    ],
+    "comment": "// 🌐 国际化相关的语言处理",
+    "example": "function handle语言() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "翻译",
+      "语言"
+    ],
+    "comment": "// 🌐 翻译相关的语言处理",
+    "example": "function handle语言() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "vue",
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "翻译",
+      "多语言"
+    ],
+    "comment": "// 🌐 翻译相关的多语言处理",
+    "example": "function handle多语言() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "vue",
+      "js",
+      "ts"
+    ],
+    "keyword": [
+      "国际化",
+      "多语言"
+    ],
+    "comment": "// 🌐 国际化相关的多语言处理",
+    "example": "function handle多语言() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "js"
+    ],
+    "keyword": [
+      "多语言",
+      "语言"
+    ],
+    "comment": "// 🌐 多语言相关的语言处理",
+    "example": "function handle语言() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "vue"
+    ],
+    "keyword": [
+      "多语言",
+      "翻译"
+    ],
+    "comment": "// 🌐 多语言相关的翻译处理",
+    "example": "function handle翻译() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "js",
+      "vue"
+    ],
+    "keyword": [
+      "国际化",
+      "翻译"
+    ],
+    "comment": "// 🌐 国际化相关的翻译处理",
+    "example": "function handle翻译() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "js"
+    ],
+    "keyword": [
+      "语言",
+      "翻译"
+    ],
+    "comment": "// 🌐 语言相关的翻译处理",
+    "example": "function handle翻译() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "js",
+      "vue"
+    ],
+    "keyword": [
+      "国际化",
+      "语言"
+    ],
+    "comment": "// 🌐 国际化相关的语言处理",
+    "example": "function handle语言() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "ts"
+    ],
+    "keyword": [
+      "翻译",
+      "多语言"
+    ],
+    "comment": "// 🌐 翻译相关的多语言处理",
+    "example": "function handle多语言() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "语言",
+      "多语言"
+    ],
+    "comment": "// 🌐 语言相关的多语言处理",
+    "example": "function handle多语言() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "js",
+      "vue",
+      "ts"
+    ],
+    "keyword": [
+      "语言",
+      "国际化"
+    ],
+    "comment": "// 🌐 语言相关的国际化处理",
+    "example": "function handle国际化() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "vue",
+      "ts",
+      "js"
+    ],
+    "keyword": [
+      "翻译",
+      "国际化"
+    ],
+    "comment": "// 🌐 翻译相关的国际化处理",
+    "example": "function handle国际化() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "ts",
+      "js",
+      "vue"
+    ],
+    "keyword": [
+      "语言",
+      "多语言"
+    ],
+    "comment": "// 🌐 语言相关的多语言处理",
+    "example": "function handle多语言() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "vue",
+      "js"
+    ],
+    "keyword": [
+      "国际化",
+      "多语言"
+    ],
+    "comment": "// 🌐 国际化相关的多语言处理",
+    "example": "function handle多语言() { /* ... */ }"
+  },
+  {
+    "emoji": "🌐",
+    "category": "i18n",
+    "lang": [
+      "vue"
+    ],
+    "keyword": [
+      "翻译",
+      "多语言"
+    ],
+    "comment": "// 🌐 翻译相关的多语言处理",
+    "example": "function handle多语言() { /* ... */ }"
+  }
+]

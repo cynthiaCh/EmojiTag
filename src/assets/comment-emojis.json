@@ -1,0 +1,141 @@
+[
+    {
+      "emoji": "🚀",
+      "category": "功能行为",
+      "meaning": "初始化 / 启动",
+      "example": "// 🚀 Initialize application state"
+    },
+    {
+      "emoji": "🛠️",
+      "category": "功能行为",
+      "meaning": "功能实现 / 改动",
+      "example": "// 🛠️ Implement data transformer"
+    },
+    {
+      "emoji": "✨",
+      "category": "功能行为",
+      "meaning": "增强 / 新增功能",
+      "example": "// ✨ Add dark mode support"
+    },
+    {
+      "emoji": "🔄",
+      "category": "功能行为",
+      "meaning": "更新 / 同步数据",
+      "example": "// 🔄 Sync local cache with server"
+    },
+    {
+      "emoji": "🗑️",
+      "category": "功能行为",
+      "meaning": "删除 / 废弃代码",
+      "example": "// 🗑️ Remove unused variable"
+    },
+    {
+      "emoji": "📦",
+      "category": "数据逻辑",
+      "meaning": "数据结构 / 对象",
+      "example": "// 📦 Define user schema"
+    },
+    {
+      "emoji": "💾",
+      "category": "数据逻辑",
+      "meaning": "本地存储 / 缓存",
+      "example": "// 💾 Save token to localStorage"
+    },
+    {
+      "emoji": "📡",
+      "category": "数据逻辑",
+      "meaning": "请求 / API 调用",
+      "example": "// 📡 Fetch product list from API"
+    },
+    {
+      "emoji": "🧮",
+      "category": "数据逻辑",
+      "meaning": "计算 / 逻辑",
+      "example": "// 🧮 Calculate total price"
+    },
+    {
+      "emoji": "🧠",
+      "category": "数据逻辑",
+      "meaning": "核心算法 / 思路解释",
+      "example": "// 🧠 Main logic for deduplication"
+    },
+    {
+      "emoji": "🖱️",
+      "category": "UI交互",
+      "meaning": "事件绑定",
+      "example": "// 🖱️ Bind click event to button"
+    },
+    {
+      "emoji": "👆",
+      "category": "UI交互",
+      "meaning": "用户交互行为",
+      "example": "// 👆 Handle user form input"
+    },
+    {
+      "emoji": "🧭",
+      "category": "UI交互",
+      "meaning": "导航 / 路由",
+      "example": "// 🧭 Redirect to dashboard"
+    },
+    {
+      "emoji": "🎨",
+      "category": "UI交互",
+      "meaning": "样式 / 主题调整",
+      "example": "// 🎨 Adjust padding for mobile"
+    },
+    {
+      "emoji": "⚠️",
+      "category": "异常与状态",
+      "meaning": "警告 / 风险点",
+      "example": "// ⚠️ May fail if input is null"
+    },
+    {
+      "emoji": "❌",
+      "category": "异常与状态",
+      "meaning": "错误处理",
+      "example": "// ❌ Validation failed"
+    },
+    {
+      "emoji": "✅",
+      "category": "异常与状态",
+      "meaning": "成功判断",
+      "example": "// ✅ All fields passed validation"
+    },
+    {
+      "emoji": "⏳",
+      "category": "异常与状态",
+      "meaning": "异步等待 / 加载",
+      "example": "// ⏳ Wait for response"
+    },
+    {
+      "emoji": "🔐",
+      "category": "异常与状态",
+      "meaning": "权限 / 安全校验",
+      "example": "// 🔐 Check access token"
+    },
+    {
+      "emoji": "🧪",
+      "category": "开发管理",
+      "meaning": "临时代码 / 实验性代码",
+      "example": "// 🧪 Temporary patch"
+    },
+    {
+      "emoji": "🔧",
+      "category": "开发管理",
+      "meaning": "开发中 / 调试",
+      "example": "// 🔧 Debug mode log"
+    },
+    {
+      "emoji": "📝",
+      "category": "文档与注释",
+      "meaning": "说明文字 / 补充注释",
+      "example": "// 📝 Helper for readability"
+    },
+    {
+      "emoji": "📚",
+      "category": "文档与注释",
+      "meaning": "设计文档 / 外部资料",
+      "example": "// 📚 See design spec"
+    }
+  ]
+  
